@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BTLCNPM2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F50EE-AC15-45FE-8C7A-5A50C0761626}|BTLCNPM2\\BTLCNPM2.csproj|c:\\users\\admin\\source\\repos\\btlcnpm2\\btlcnpm2\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C31F50EE-AC15-45FE-8C7A-5A50C0761626}|BTLCNPM2\\BTLCNPM2.csproj|solutionrelative:btlcnpm2\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F50EE-AC15-45FE-8C7A-5A50C0761626}|BTLCNPM2\\BTLCNPM2.csproj|c:\\users\\admin\\source\\repos\\btlcnpm2\\btlcnpm2\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31F50EE-AC15-45FE-8C7A-5A50C0761626}|BTLCNPM2\\BTLCNPM2.csproj|solutionrelative:btlcnpm2\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB46BEFF-CE64-41AB-8F2E-A9DCFD3432F3}|DTO\\DTO.csproj|c:\\users\\admin\\source\\repos\\btlcnpm2\\dto\\bienlaidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB46BEFF-CE64-41AB-8F2E-A9DCFD3432F3}|DTO\\DTO.csproj|solutionrelative:dto\\bienlaidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BB43F-E8CE-4363-9AAA-C1F3BA74CE49}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\BTLCNPM2\\dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BB43F-E8CE-4363-9AAA-C1F3BA74CE49}|DAL\\DAL.csproj|solutionrelative:dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F50EE-AC15-45FE-8C7A-5A50C0761626}|BTLCNPM2\\BTLCNPM2.csproj|c:\\users\\admin\\source\\repos\\btlcnpm2\\btlcnpm2\\hocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31F50EE-AC15-45FE-8C7A-5A50C0761626}|BTLCNPM2\\BTLCNPM2.csproj|solutionrelative:btlcnpm2\\hocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BTLCNPM2\\DAL\\Database.cs",
+              "RelativeDocumentMoniker": "DAL\\Database.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BTLCNPM2\\DAL\\Database.cs",
+              "RelativeToolTip": "DAL\\Database.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAIwPcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:15:03.178Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BienLaiDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BTLCNPM2\\DTO\\BienLaiDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\BienLaiDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BTLCNPM2\\DTO\\BienLaiDTO.cs",
+              "RelativeToolTip": "DTO\\BienLaiDTO.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T00:36:44.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThanhToan.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BTLCNPM2\\BTLCNPM2\\ThanhToan.cs",
+              "RelativeDocumentMoniker": "BTLCNPM2\\ThanhToan.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BTLCNPM2\\BTLCNPM2\\ThanhToan.cs",
+              "RelativeToolTip": "BTLCNPM2\\ThanhToan.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAAALoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T00:29:21.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThanhToan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BTLCNPM2\\BTLCNPM2\\ThanhToan.cs",
+              "RelativeDocumentMoniker": "BTLCNPM2\\ThanhToan.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BTLCNPM2\\BTLCNPM2\\ThanhToan.cs [Design]",
+              "RelativeToolTip": "BTLCNPM2\\ThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T00:29:15.624Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HocPhi.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BTLCNPM2\\BTLCNPM2\\HocPhi.cs",
+              "RelativeDocumentMoniker": "BTLCNPM2\\HocPhi.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BTLCNPM2\\BTLCNPM2\\HocPhi.cs",
+              "RelativeToolTip": "BTLCNPM2\\HocPhi.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T23:03:37.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
